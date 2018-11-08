@@ -14,6 +14,22 @@ var friendArray = [
             4,
             1
             ]
+    },
+    {
+        name:"Bill",
+        photo:"http://i.imgur.com/VekZS.png",
+        scores:[
+            3,
+            5,
+            4,
+            4,
+            5,
+            1,
+            2,
+            1,
+            4,
+            3
+            ]
     }
 ];
 
